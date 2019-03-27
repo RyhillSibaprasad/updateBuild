@@ -1,2 +1,2 @@
-# updateBuild
-Auto Update
+## updateBuild
+A sample electron app.
